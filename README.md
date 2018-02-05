@@ -1,5 +1,6 @@
 ## FEWD-a01
 
+
 ### Hi there! I'm Parisa.
    I have been in US for four years due to my husband Fellowship Program from UCSD for his PHD. Since then,  I have been working on English and some other skills related to design which I have always had the greatest passion and enthusiasm. 
    
@@ -10,16 +11,18 @@
    Finally, I want to find a way to continue into higher education both to achieve financial independence and change the world around me to make it a better place to live for everyone.
    
 
-   
-### My hobbies are:
+
+# My hobbies are:
+
    * photography
    * hiking
    * playing vollyball
    * watching movies
   
+
   
 ### This is me!
  Check out [my facebook account](https://www.facebook.com/parisa.nikzad.71)
  
- 
+
 ![me](https://user-images.githubusercontent.com/32685010/35788907-31b44e22-09ed-11e8-9222-e98f71e50357.jpg)
