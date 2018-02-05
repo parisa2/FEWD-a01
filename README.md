@@ -11,14 +11,6 @@
    * playing vollyball
    * watching movies
   
-# This is me
-![my image](https://www.facebook.com/parisa.nikzad.71/17457977_1359770020787561_8568302311008099058_n.jpg)
+# Check out [my facebook account](https://www.facebook.com/parisa.nikzad.71)
 
-
-![my image](https://www.facebook.com/photo.phpfbid=1359770020787561&set=a.106783729419536.9406.100002637288528&type=3&theater)
-
-
-[my facebook account](https://www.facebook.com/parisa.nikzad.71)
-
-
-
+![me](https://user-images.githubusercontent.com/32685010/35788907-31b44e22-09ed-11e8-9222-e98f71e50357.jpg)
